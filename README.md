@@ -20,8 +20,8 @@ The educational task is to create a person’s identity card. Data must include 
 
 ## Blank form and Сompleted form
 
-![dotCMS logo](skärm_1.jpg)
-![dotCMS logo](skärm?2.jpg)
+![dotCMS logo](skarm_1.jpg)
+![dotCMS logo](skarm?2.jpg)
 
 
 ___
